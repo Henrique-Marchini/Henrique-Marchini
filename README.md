@@ -1,19 +1,14 @@
-
-# 👋 Hi, I'm HIQ
-
 <div align="center">
 
-<!-- Animated Cybersecurity Banner -->
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=220&section=header&text=HIQ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%26%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 </div>
 
-## 🛡️ About Me
+## 👋 Hi, I'm HIQ
 
-🎓 Cybersecurity Student
-💻 Developer
-🔐 Interested in Cybersecurity & Software Development
+🎓 **Cybersecurity Student**
+💻 **Developer**
+🔐 Interested in **Cybersecurity & Software Development**
 🚀 Always learning, building and exploring new technologies
 
 ---
@@ -38,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Henrique-Marchini/Henrique-Marchini/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -48,9 +43,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Marchini&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Marchini&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -58,7 +53,7 @@
 
 ## 🛠️ Technologies
 
-### Languages
+### 💻 Languages
 
 <div align="left">
 
@@ -66,7 +61,7 @@
 
 </div>
 
-### Frameworks & Runtime
+### ⚛️ Frameworks & Runtime
 
 <div align="left">
 
@@ -74,7 +69,7 @@
 
 </div>
 
-### Database
+### 🗄️ Database
 
 <div align="left">
 
