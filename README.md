@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="./assets/hollow-knight.gif" alt="Hollow Knight" width="500"/>
+<img src="./Assets/hollow_knight_walk_banner.gif" alt="Hollow Knight" width="500"/>
 
 </div>
 
