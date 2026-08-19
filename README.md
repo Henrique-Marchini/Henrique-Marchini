@@ -6,9 +6,9 @@
 
 ## 👋 Hi, I'm HIQ
 
-🎓 **Cybersecurity Student**
-💻 **Developer**
-🔐 Interested in **Cybersecurity & Software Development**
+🎓 **Cybersecurity Student**  
+💻 **Developer**  
+🔐 Interested in **Cybersecurity & Software Development**  
 🚀 Always learning, building and exploring new technologies
 
 ---
@@ -46,6 +46,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Marchini&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Marchini&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/hollow-knight.gif" alt="Hollow Knight" width="500"/>
 
 </div>
 
