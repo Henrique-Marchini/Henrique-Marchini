@@ -5,7 +5,7 @@
 
 <!-- Animated Cybersecurity Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=220&section=header&text=HIQ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%26%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
