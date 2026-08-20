@@ -17,15 +17,17 @@
 
 <div align="left">
 
-<a href="SEU_LINKEDIN">
-  <img src="https://www.linkedin.com/in/henrique-marchini/" />
+<a href="https://www.linkedin.com/in/henrique-marchini/">
+   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
-  <img src="https://mail.google.com/mail/?view=cm&to=henrique.marchini.souza%40gmail.com&utm_source=chatgpt.com" />
+<a href="https://mail.google.com/mail/?view=cm&to=henrique.marchini.souza%40gmail.com&utm_source=chatgpt.com">
+   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 </div>
+
+
 
 ---
 
