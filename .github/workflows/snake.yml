@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write   # dá permissão de escrita para o GITHUB_TOKEN
+
 on:
   schedule:
     - cron: "0 0 * * *"
