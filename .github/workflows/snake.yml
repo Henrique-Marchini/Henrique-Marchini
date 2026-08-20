@@ -20,6 +20,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Verify dist contents
+        run: ls -la dist
+
       - name: Setup Git
         run: |
           git config --global user.name "github-actions[bot]"
