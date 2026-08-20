@@ -59,8 +59,6 @@
 
 ---
 
-## 🛠️ Technologies
-
 ### 💻 Languages
 
 <div align="left">
