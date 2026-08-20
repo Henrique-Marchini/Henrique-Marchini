@@ -18,11 +18,11 @@
 <div align="left">
 
 <a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://www.linkedin.com/in/henrique-marchini/" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://mail.google.com/mail/?view=cm&to=henrique.marchini.souza%40gmail.com&utm_source=chatgpt.com" />
 </a>
 
 </div>
